@@ -30,13 +30,13 @@ Para colaborar es necesario tener presente que se trata de un\_** DICCIONARIO **
 * Abrir la carpeta donde vamos a guardar el diccionario
 * abrir el editor
 
-...
+```
 nano diccionarioFibertel.sh
-...
+```
 
 * Copiar el siguiente codigo
 
-...
+```
 #!/bin/bash
 
 echo 'Creando diccionarios'
@@ -62,19 +62,19 @@ echo ''
 echo 'Borrando archivos concatenados'
 echo 'Diccionario creado'
 exit
-...
+```
 
 * Ejecutar el siguiente comando 
 
-...
+```
 sudo su
 chmod +x diccionarioFibertel.sh
-...
+```
 
 * Listo ahora solo queda ejecutar el archivo
-...
+```
 ./diccionarioFibertel.sh
-...
+```
 
 
 *Autor*: Lautaro Jara
