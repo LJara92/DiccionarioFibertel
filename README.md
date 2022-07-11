@@ -28,13 +28,20 @@ Para colaborar es necesario tener presente que se trata de un\_** DICCIONARIO **
 # Instrucciones
 
 * Abrir la carpeta donde vamos a guardar el diccionario
-* abrir el editor
+* Descargar el script con el siguiente comando 
+
+```
+git clone https://github.com/LJara92/DiccionarioFibertel
+```
+* El sigueinte paso solo si decidiste no clonar el repositorio
+
+* Abrir el editor de texto nano, y luego pegar el script que se detalla mas abajo
 
 ```
 nano diccionarioFibertel.sh
 ```
 
-* Copiar el siguiente codigo
+* Script a pegar dentro del archivo nano
 
 ```
 #!/bin/bash
