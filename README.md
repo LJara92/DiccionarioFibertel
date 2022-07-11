@@ -11,7 +11,7 @@ Las combinaciones contenidas
 * 014 + DNI's (Entre 20 y 40 millones)
 * 044 + DNI's (Entre 20 y 40 millones)
 
-<img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/diccionarios/blob/master/25pass.png">
+<img style="float:left" alt="netspy logo" src="https://raw.githubusercontent.com/LJara92/DiccionarioFibertel/main/Keys.png">
 
 ### Importante
 
