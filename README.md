@@ -50,7 +50,7 @@ echo 'Creando diccionarios'
 echo ""
 crunch 11 11 0123456789 -t 0442@@@@@@@ -o 044-20Millones.txt
 crunch 11 11 0123456789 -t 0443@@@@@@@ -o 044-30Millones.txt
-crunch 11 11 0123456789 -t 0443@@@@@@@ -o 044-40Millones.txt
+crunch 11 11 0123456789 -t 0444@@@@@@@ -o 044-40Millones.txt
 crunch 11 11 0123456789 -t 0142@@@@@@@ -o 014-20Millones.txt
 crunch 11 11 0123456789 -t 0143@@@@@@@ -o 014-30Millones.txt
 crunch 11 11 0123456789 -t 0144@@@@@@@ -o 014-40Millones.txt
